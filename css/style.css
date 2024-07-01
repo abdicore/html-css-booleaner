@@ -1,5 +1,16 @@
-.rosso {
-    color: aquamarine;
-    background-color: blue;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+.container {
+    width: 700px;
+    margin: auto;
+}
+
+.fondo {
+    background-image: url(../img/pattern.png);
+    background-color: #4ea0ff;
+    background-size: 35%;
+}
+
+.logo {
+height: 50px;
+margin-top: 19px;
+margin-bottom: 5px;
 }
