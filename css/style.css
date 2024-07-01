@@ -14,3 +14,8 @@ height: 50px;
 margin-top: 19px;
 margin-bottom: 5px;
 }
+
+.sottolineatura {
+ text-decoration: none;
+ color: #4ea0ff;
+}
