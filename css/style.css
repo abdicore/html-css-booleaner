@@ -19,3 +19,11 @@ margin-bottom: 5px;
  text-decoration: none;
  color: #4ea0ff;
 }
+
+.image {
+    height: 250px;
+}
+
+.evidenziato {
+    background-color: yellow;
+}
